@@ -21,7 +21,7 @@ SOURCES = {
 }
 ITEMS_PER_FEED = 6
 FILMS_NOW = 5        # películas en cartel (las más populares)
-FILMS_UPCOMING = 0   # pon 2 o 3 si quieres ver también algún estreno próximo
+FILMS_UPCOMING = 3   # pon 2 o 3 si quieres ver también algún estreno próximo
 SUMMARY_CHARS = 220
 UA = {"User-Agent": "Mozilla/5.0 (portal-personal)"}
 # ---------------------------------------------------------------------
