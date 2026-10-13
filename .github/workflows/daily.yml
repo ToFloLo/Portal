@@ -1,5 +1,7 @@
 name: Actualizar portal
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 5 * * *"
   workflow_dispatch:
